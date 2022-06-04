@@ -1,0 +1,16 @@
+{
+  "name": "cne-scraping",
+  "version": "1.0.0",
+  "description": "Scraping para obtener datos de la pagina del cne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Moron",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "read-excel-file": "^5.2.9"
+  }
+}
